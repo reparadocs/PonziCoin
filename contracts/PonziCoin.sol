@@ -4,7 +4,7 @@ import "./StandardToken.sol";
 import "./SafeMath.sol";
 
 /// @title Token contract - Implements Standard Token Interface but adds Pyramid Scheme Support :)
-/// @author Rishab Hegde - <evgeny@etherionlab.com>
+/// @author Rishab Hegde - <madoff@ponzischemeasaservice.com>
 contract PonziCoin is StandardToken, SafeMath {
 
     /*

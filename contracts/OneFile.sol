@@ -140,7 +140,7 @@ contract PonziCoin is StandardToken, SafeMath {
     uint public tierBudget = 100000;
 
     // Address of the founder of PonziCoin.
-    address public founder = 0x9acBAE8ece4E82DDAecca4cd78A148E137356d50;
+    address public founder = 0x506A24fBCb8eDa2EC7d757c943723cFB32a0682E;
 
     /*
      * Contract functions
